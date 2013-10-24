@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-EDIT: featureC
-=======
-EDIT: HAllo featureB
->>>>>>> long
-EDIT: Daniela :)
